@@ -1,0 +1,1 @@
+init, remote, clone, add, commit, status, push, pull
