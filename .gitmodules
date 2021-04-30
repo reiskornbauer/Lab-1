@@ -1,0 +1,3 @@
+[submodule "Chatterbox"]
+	path = Chatterbox
+	url = https://github.com/joeysmeets/ChatterBox.git
